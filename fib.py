@@ -12,3 +12,4 @@ for i in range(n):
     print("qw1")
 
     print("qw2")
+    print("qqq1")
