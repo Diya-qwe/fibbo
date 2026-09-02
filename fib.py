@@ -9,3 +9,4 @@ for i in range(n):
     print("r2d1")
     print("r1d1")
     print("r2t2")
+    print("qw1")
