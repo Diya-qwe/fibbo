@@ -1,4 +1,4 @@
-n = int(input("The third pull req Enter number of terms: "))
+n = int(input("The fourth pull req Enter number of terms: "))
 a = 0
 b = 1
 for i in range(n):
