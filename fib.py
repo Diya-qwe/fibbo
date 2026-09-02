@@ -10,3 +10,5 @@ for i in range(n):
     print("r1d1")
     print("r2t2")
     print("qw1")
+
+    print("qw2")
