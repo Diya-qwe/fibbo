@@ -7,10 +7,4 @@ for i in range(n):
     print("This is main branch")
     print("r1t1")
     print("r2d1")
-    print("r1d1")
-    print("r2t2")
-    print("qw1")
-
-    print("qw2")
-    print("qqq1")
-    print("qqq2")
+    
