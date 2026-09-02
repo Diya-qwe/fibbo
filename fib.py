@@ -13,3 +13,4 @@ for i in range(n):
 
     print("qw2")
     print("qqq1")
+    print("qqq2")
