@@ -5,8 +5,5 @@ for i in range(n):
     print(a, end=" ")
     a, b = b, a + b
     print("This is main branch")
-<<<<<<< HEAD
     print("r1")
-=======
     print("r2")
->>>>>>> r2
