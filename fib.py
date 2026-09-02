@@ -1,11 +1,7 @@
-n = int(input("The fourth pull req Enter number of terms: "))
+n = int(input("The third pull req Enter numper of terms: "))
 a = 0
 b = 1
 for i in range(n):
     print(a, end=" ")
     a, b = b, a + b
-<<<<<<< HEAD
-    print("f1 new added")
-=======
-    print("f2 added")
->>>>>>> fea2
+    
