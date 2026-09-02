@@ -7,3 +7,5 @@ for i in range(n):
     print("This is main branch")
     print("r1t1")
     print("r2")
+    print("r1")
+    print("r2t2")
